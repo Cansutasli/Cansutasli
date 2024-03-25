@@ -1,16 +1,17 @@
-### Hi there 👋
+<!-- HEADER -->
+<h3 align="center">
+     <br>Welcome to my GitHub!
+</h3>
 
-<!--
-**Cansutasli/Cansutasli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Cansu TAŞLİ </a> <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" /></h1>
 
-Here are some ideas to get you started:
+![Profile views](https://gpvc.arturio.dev/tohid-yousefi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Cansu TAŞLİ and I am studying computer programming at Anadolu University in Turkey. My field of work is mostly meta-heuristic algorithms. Python and MATLAB programming languages, and data science.
+
+
+- [LinkedIn](https://www.linkedin.com/in/tohid-yousefi/)
+- [Personal WebPage](http://tohid.com.tr)
+- [Kaggle](https://www.kaggle.com/tohidyousefi)
+- [Email](mailto:cansu.1314@hotmail.com)
+
